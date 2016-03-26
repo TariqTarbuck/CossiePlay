@@ -80,8 +80,9 @@ body img {
 	margin-right: 0px;
 	left: auto;
 	top: 350px;
-	width: 461px;
-	height: 322px;
+	width: 434px;
+	height: 292px;
+	
 }
 body p3 {
 	margin-left: 40%;
@@ -92,6 +93,7 @@ body p3 {
 	left: 67px;
 }
 body p4 {
+
 	margin-left: 40%;
 	margin-top: 0px;
 	position: absolute;
@@ -109,8 +111,7 @@ body p5 {
 }
 .girl {
 	position: absolute;
-	width: 399px;
-	height: 349px;
+
 	top: 649px;
 	margin-right: 13%;
 	right: 1px;
@@ -120,4 +121,12 @@ body p5 {
 	left: 0%;
 	top: 250px;
 	float: left;
+}
+#girls {
+	position: absolute;
+	right: 14%;
+}
+#prices {
+}
+lists {
 }
