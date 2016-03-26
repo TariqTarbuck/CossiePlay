@@ -73,3 +73,35 @@ body h2 {
 	color: #000000;
 	background-color: #FF9900;
 }
+body img {
+	position: absolute;
+	float: left;
+	margin-left: 14%;
+	margin-right: 0px;
+	left: auto;
+	top: 350px;
+}
+body p3 {
+	margin-left: 35%;
+	margin-top: 0px;
+	position: absolute;
+	top: 559px;
+	margin-right: 40%;
+	left: 67px;
+}
+body p4 {
+	margin-left: 35%;
+	margin-top: 0px;
+	position: absolute;
+	top: 750px;
+	margin-right: 40%;
+	left: 67px;
+}
+.girl {
+	position: absolute;
+	width: 399px;
+	height: 349px;
+	top: 649px;
+	margin-right: 13%;
+	right: 1px;
+}
