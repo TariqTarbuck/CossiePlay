@@ -1,0 +1,37 @@
+@charset "utf-8";
+#header ul li a {
+	height: 20px;
+	margin: 0px;
+	padding-top: 0px;
+	padding-right: 10px;
+	padding-left: 10px;
+	padding-bottom: 0px;
+	border-left: #999999 1px solid;
+	border-top: #999999 1px solid;
+	border-bottom: #999999 1px solid;
+	color: #333333;
+	text-decoration: none;
+	font-size: 14px;
+	top: 30px;
+	position: relative;
+}
+h1 {
+	right: auto;
+	position: absolute;
+	left: 50%;
+	top: 0px;
+}
+
+
+#header li {
+	list-style: none;
+	display: inline;
+}
+#header ul li a:hover {
+	color: #333333;
+	background-color: #51E9EC;
+}
+#header ul li a:active {
+	color: #000000;
+	background-color: #FF9900;
+}
