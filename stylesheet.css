@@ -80,9 +80,11 @@ body img {
 	margin-right: 0px;
 	left: auto;
 	top: 350px;
+	width: 461px;
+	height: 322px;
 }
 body p3 {
-	margin-left: 35%;
+	margin-left: 40%;
 	margin-top: 0px;
 	position: absolute;
 	top: 559px;
@@ -90,12 +92,20 @@ body p3 {
 	left: 67px;
 }
 body p4 {
-	margin-left: 35%;
+	margin-left: 40%;
 	margin-top: 0px;
 	position: absolute;
 	top: 750px;
 	margin-right: 40%;
 	left: 67px;
+}
+body p5 {
+	margin-left: 35%;
+	margin-top: 0px;
+	position: absolute;
+	top: 525px;
+	margin-right: 13%;
+	left: 120px;
 }
 .girl {
 	position: absolute;
@@ -104,4 +114,10 @@ body p4 {
 	top: 649px;
 	margin-right: 13%;
 	right: 1px;
+}
+.dj {
+	position: absolute;
+	left: 0%;
+	top: 250px;
+	float: left;
 }
