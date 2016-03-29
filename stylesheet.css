@@ -41,6 +41,7 @@ body h3 {
 	margin-left: 14%;
 	font-size: 22px;
 }
+
 body p2 {
 	margin-left: 14%;
 	top: 225px;
@@ -48,6 +49,16 @@ body p2 {
 	padding-top: 10px;
 	margin-right: 14%;
 }
+.bannert {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 19%;
+	margin-top: 0px;
+	margin-left: 0px;
+}
+
 
 
 body h2 {
@@ -84,6 +95,33 @@ body img {
 	height: 292px;
 	
 }
+.bannerl {
+	position: absolute;
+	left: 0px;
+	height: 100%;
+	width: 14%;
+	top: 150px;
+	padding-top: 37px;
+	margin-left: 0px;
+	padding-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+}
+.bannerr {
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	height: 100%;
+	width: 14%;
+	top: 150px;
+	position: absolute;
+	right: 0px;
+	padding-top: 30px;
+}
+
+
 body p3 {
 	margin-left: 40%;
 	margin-top: 0px;
@@ -131,4 +169,8 @@ body p5 {
 lists {
 }
 .1 {
+}
+.banner {
+}
+.bannert {
 }
